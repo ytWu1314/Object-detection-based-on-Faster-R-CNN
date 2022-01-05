@@ -1,0 +1,8 @@
+C:\Users\PC_SKY_WYT\Desktop\HW_V3\Code\VOCdevkit/VOC2007/JPEGImages/23.jpg 100,38,662,1016,0
+C:\Users\PC_SKY_WYT\Desktop\HW_V3\Code\VOCdevkit/VOC2007/JPEGImages/4.jpg 19,1,693,925,0
+C:\Users\PC_SKY_WYT\Desktop\HW_V3\Code\VOCdevkit/VOC2007/JPEGImages/41.jpg 313,309,901,430,0
+C:\Users\PC_SKY_WYT\Desktop\HW_V3\Code\VOCdevkit/VOC2007/JPEGImages/54.jpg 109,69,991,629,1
+C:\Users\PC_SKY_WYT\Desktop\HW_V3\Code\VOCdevkit/VOC2007/JPEGImages/57.jpg 30,141,741,986,1
+C:\Users\PC_SKY_WYT\Desktop\HW_V3\Code\VOCdevkit/VOC2007/JPEGImages/6.jpg 19,79,761,1024,0
+C:\Users\PC_SKY_WYT\Desktop\HW_V3\Code\VOCdevkit/VOC2007/JPEGImages/62.jpg 124,74,857,700,1
+C:\Users\PC_SKY_WYT\Desktop\HW_V3\Code\VOCdevkit/VOC2007/JPEGImages/64.jpg 77,304,980,454,0

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>77.jpg</filename>
+	<path>C:\Users\PC_SKY_WYT\Desktop\VOCdevkit\VOC2007\JPEGImages\77.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>682</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>303</xmin>
+			<ymin>543</ymin>
+			<xmax>587</xmax>
+			<ymax>748</ymax>
+		</bndbox>
+	</object>
+</annotation>
