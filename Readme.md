@@ -9,7 +9,7 @@
 
 # v3版本优化说明
 
-1. 文档不再使用Word编写，而使用 $Latex$  编写，而且使用了论文期刊的格式，优化了整体文章美观程度
+1. 文档不再使用Word编写，而使用 Latex 编写，而且使用了论文期刊的格式，优化了整体文章美观程度
 2. 改进论文的书写，不再贴长篇的代码，而且更加注重自己的思考、分析、探讨，并且对两种模型都进行了实验
 3. 在完成`Faster R-CNN` 模型的代码编写的基础上，运行了不同的模型，借助`华为云ModelArts`运行代码，利用了课程的资源，并且完成对于`get_map.py`的编写![HuaweiModeArts2](https://github.com/ytWu1314/Object-detection-based-on-Faster-R-CNN/blob/6a4edc829a6606b6b6e5e573d1faea9980c5738f/Huawei_ModelArts/HuaweiModeArts2.png)
    1. 使用`VGG`作为主干特征网络权重训练模型，并且求出了`mAP`![mAP_VGG](https://github.com/ytWu1314/Object-detection-based-on-Faster-R-CNN/blob/6a4edc829a6606b6b6e5e573d1faea9980c5738f/Huawei_ModelArts/mAP_VGG.png)
