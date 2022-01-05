@@ -15,7 +15,7 @@
    1. 使用`VGG`作为主干特征网络权重训练模型，并且求出了`mAP`![mAP_VGG](https://github.com/ytWu1314/Object-detection-based-on-Faster-R-CNN/blob/6a4edc829a6606b6b6e5e573d1faea9980c5738f/Huawei_ModelArts/mAP_VGG.png)
    2. 使用`ResNet` 作为主干特征网络权重训练模型，并且求出了`mAP`![mAP_ResNet](https://github.com/ytWu1314/Object-detection-based-on-Faster-R-CNN/blob/6a4edc829a6606b6b6e5e573d1faea9980c5738f/Huawei_ModelArts/mAP_ResNet.png)
    3. 运行结果和截图可见`Huawei_ModelArts` 文件夹
-4. 制作了`gun,sword`数据集以及对`gun,sword`数据集进行了处理,训练并且求出了`VOC12+07` 数据集的`mAP`![9]
+4. 制作了`gun,sword`数据集以及对`gun,sword`数据集进行了处理,训练并且求出了`VOC12+07` 数据集的`mAP`
 5. 对训练结果进行了预测
 6. 本项目参考了以下链接
    1. https://github.com/bubbliiiing/faster-rcnn-pytorch
